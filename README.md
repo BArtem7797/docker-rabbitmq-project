@@ -19,8 +19,6 @@
   
 - pgAdmin: http://localhost:5050
 
-    URL: http://localhost:5050
-
     Email: admin@admin.com
 
     Пароль: admin
